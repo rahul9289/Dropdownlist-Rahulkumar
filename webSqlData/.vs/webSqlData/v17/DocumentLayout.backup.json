@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\rahul\\practice\\webSqlData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEEFCF4E-D71B-4291-9EE4-3B22C40C4BFA}|webSqlData\\webSqlData.csproj|c:\\users\\user\\desktop\\rahul\\practice\\websqldata\\websqldata\\controllers\\studentdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEEFCF4E-D71B-4291-9EE4-3B22C40C4BFA}|webSqlData\\webSqlData.csproj|solutionrelative:websqldata\\controllers\\studentdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEEFCF4E-D71B-4291-9EE4-3B22C40C4BFA}|webSqlData\\webSqlData.csproj|c:\\users\\user\\desktop\\rahul\\practice\\websqldata\\websqldata\\models\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEEFCF4E-D71B-4291-9EE4-3B22C40C4BFA}|webSqlData\\webSqlData.csproj|solutionrelative:websqldata\\models\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDataController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\rahul\\practice\\webSqlData\\webSqlData\\Controllers\\StudentDataController.cs",
+              "RelativeDocumentMoniker": "webSqlData\\Controllers\\StudentDataController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\rahul\\practice\\webSqlData\\webSqlData\\Controllers\\StudentDataController.cs",
+              "RelativeToolTip": "webSqlData\\Controllers\\StudentDataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:17:39.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studentData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\rahul\\practice\\webSqlData\\webSqlData\\Models\\studentData.cs",
+              "RelativeDocumentMoniker": "webSqlData\\Models\\studentData.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\rahul\\practice\\webSqlData\\webSqlData\\Models\\studentData.cs",
+              "RelativeToolTip": "webSqlData\\Models\\studentData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:12:21.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

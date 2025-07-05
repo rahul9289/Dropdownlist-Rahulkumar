@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leftTrangle", "leftTrangle\leftTrangle.csproj", "{F2908CD3-9C15-4D88-8591-8330B5AC9CBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2908CD3-9C15-4D88-8591-8330B5AC9CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2908CD3-9C15-4D88-8591-8330B5AC9CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2908CD3-9C15-4D88-8591-8330B5AC9CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2908CD3-9C15-4D88-8591-8330B5AC9CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4C34587-22AE-4D32-BFD7-AA46B06F55E3}
+	EndGlobalSection
+EndGlobal

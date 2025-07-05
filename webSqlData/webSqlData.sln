@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webSqlData", "webSqlData\webSqlData.csproj", "{AEEFCF4E-D71B-4291-9EE4-3B22C40C4BFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEEFCF4E-D71B-4291-9EE4-3B22C40C4BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEEFCF4E-D71B-4291-9EE4-3B22C40C4BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEEFCF4E-D71B-4291-9EE4-3B22C40C4BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEEFCF4E-D71B-4291-9EE4-3B22C40C4BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2416CE5-883E-4D10-9F6F-1A8BA5DC1671}
+	EndGlobalSection
+EndGlobal

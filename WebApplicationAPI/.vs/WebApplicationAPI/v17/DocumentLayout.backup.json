@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E82A4D3D-C774-4E22-8ECB-19E78EEBFE50}|WebApplicationAPI\\WebApplicationAPI.csproj|c:\\users\\user\\desktop\\rahul\\practice\\webapplicationapi\\webapplicationapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82A4D3D-C774-4E22-8ECB-19E78EEBFE50}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82A4D3D-C774-4E22-8ECB-19E78EEBFE50}|WebApplicationAPI\\WebApplicationAPI.csproj|C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\webapplicationapi\\controllers\\electroniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82A4D3D-C774-4E22-8ECB-19E78EEBFE50}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\controllers\\electroniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82A4D3D-C774-4E22-8ECB-19E78EEBFE50}|WebApplicationAPI\\WebApplicationAPI.csproj|C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\webapplicationapi\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82A4D3D-C774-4E22-8ECB-19E78EEBFE50}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82A4D3D-C774-4E22-8ECB-19E78EEBFE50}|WebApplicationAPI\\WebApplicationAPI.csproj|C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\webapplicationapi\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82A4D3D-C774-4E22-8ECB-19E78EEBFE50}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82A4D3D-C774-4E22-8ECB-19E78EEBFE50}|WebApplicationAPI\\WebApplicationAPI.csproj|C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\webapplicationapi\\controllers\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82A4D3D-C774-4E22-8ECB-19E78EEBFE50}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\controllers\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82A4D3D-C774-4E22-8ECB-19E78EEBFE50}|WebApplicationAPI\\WebApplicationAPI.csproj|C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\webapplicationapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82A4D3D-C774-4E22-8ECB-19E78EEBFE50}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82A4D3D-C774-4E22-8ECB-19E78EEBFE50}|WebApplicationAPI\\WebApplicationAPI.csproj|C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\webapplicationapi\\models\\newemploye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82A4D3D-C774-4E22-8ECB-19E78EEBFE50}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\models\\newemploye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElectronicController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\WebApplicationAPI\\Controllers\\ElectronicController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Controllers\\ElectronicController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\WebApplicationAPI\\Controllers\\ElectronicController.cs",
+              "RelativeToolTip": "WebApplicationAPI\\Controllers\\ElectronicController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:20:48.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\WebApplicationAPI\\Models\\Class1.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\WebApplicationAPI\\Models\\Class1.cs",
+              "RelativeToolTip": "WebApplicationAPI\\Models\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:15:50.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\WebApplicationAPI\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\WebApplicationAPI\\Models\\Company.cs",
+              "RelativeToolTip": "WebApplicationAPI\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:10:52.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\WebApplicationAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\WebApplicationAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplicationAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T09:34:57.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\WebApplicationAPI\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\WebApplicationAPI\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebApplicationAPI\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T08:49:41.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewEmploye.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\WebApplicationAPI\\Models\\NewEmploye.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Models\\NewEmploye.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\WebApplicationAPI\\Models\\NewEmploye.cs",
+              "RelativeToolTip": "WebApplicationAPI\\Models\\NewEmploye.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T08:21:51.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\WebApplicationAPI\\Controllers\\UserAPIController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Controllers\\UserAPIController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebApplicationAPI\\WebApplicationAPI\\Controllers\\UserAPIController.cs",
+              "RelativeToolTip": "WebApplicationAPI\\Controllers\\UserAPIController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:27:30.64Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

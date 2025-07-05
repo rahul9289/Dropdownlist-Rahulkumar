@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\rahul\practice\leftTrangle\leftTrangle\bin\Debug\leftTrangle.exe.config
+C:\Users\User\Desktop\rahul\practice\leftTrangle\leftTrangle\bin\Debug\leftTrangle.exe
+C:\Users\User\Desktop\rahul\practice\leftTrangle\leftTrangle\bin\Debug\leftTrangle.pdb
+C:\Users\User\Desktop\rahul\practice\leftTrangle\leftTrangle\obj\Debug\leftTrangle.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\rahul\practice\leftTrangle\leftTrangle\obj\Debug\leftTrangle.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\rahul\practice\leftTrangle\leftTrangle\obj\Debug\leftTrangle.exe
+C:\Users\User\Desktop\rahul\practice\leftTrangle\leftTrangle\obj\Debug\leftTrangle.pdb

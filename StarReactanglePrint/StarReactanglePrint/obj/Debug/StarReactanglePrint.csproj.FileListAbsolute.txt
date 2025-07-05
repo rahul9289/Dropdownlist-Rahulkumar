@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\rahul\practice\StarReactanglePrint\StarReactanglePrint\bin\Debug\StarReactanglePrint.exe.config
+C:\Users\User\Desktop\rahul\practice\StarReactanglePrint\StarReactanglePrint\bin\Debug\StarReactanglePrint.exe
+C:\Users\User\Desktop\rahul\practice\StarReactanglePrint\StarReactanglePrint\bin\Debug\StarReactanglePrint.pdb
+C:\Users\User\Desktop\rahul\practice\StarReactanglePrint\StarReactanglePrint\obj\Debug\StarReactanglePrint.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\rahul\practice\StarReactanglePrint\StarReactanglePrint\obj\Debug\StarReactanglePrint.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\rahul\practice\StarReactanglePrint\StarReactanglePrint\obj\Debug\StarReactanglePrint.exe
+C:\Users\User\Desktop\rahul\practice\StarReactanglePrint\StarReactanglePrint\obj\Debug\StarReactanglePrint.pdb

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebformApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC90E4C-9545-4565-98CB-072EA900626B}|WebformApplication\\WebformApplication.csproj|C:\\Users\\User\\Desktop\\rahul\\practice\\WebformApplication\\webformapplication\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6AC90E4C-9545-4565-98CB-072EA900626B}|WebformApplication\\WebformApplication.csproj|solutionrelative:webformapplication\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC90E4C-9545-4565-98CB-072EA900626B}|WebformApplication\\WebformApplication.csproj|c:\\users\\user\\desktop\\rahul\\practice\\webformapplication\\webformapplication\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC90E4C-9545-4565-98CB-072EA900626B}|WebformApplication\\WebformApplication.csproj|solutionrelative:webformapplication\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC90E4C-9545-4565-98CB-072EA900626B}|WebformApplication\\WebformApplication.csproj|C:\\Users\\User\\Desktop\\rahul\\practice\\WebformApplication\\webformapplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6AC90E4C-9545-4565-98CB-072EA900626B}|WebformApplication\\WebformApplication.csproj|solutionrelative:webformapplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebformApplication\\WebformApplication\\Web.config",
+              "RelativeDocumentMoniker": "WebformApplication\\Web.config",
+              "ToolTip": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebformApplication\\WebformApplication\\Web.config",
+              "RelativeToolTip": "WebformApplication\\Web.config",
+              "ViewState": "AgIAADYAAAAAAAAAAAAewEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-26T14:50:10.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebformApplication\\WebformApplication\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebformApplication\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebformApplication\\WebformApplication\\WebForm1.aspx",
+              "RelativeToolTip": "WebformApplication\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-23T14:06:21.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebformApplication\\WebformApplication\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "WebformApplication\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\rahul\\practice\\WebformApplication\\WebformApplication\\WebForm1.aspx.cs",
+              "RelativeToolTip": "WebformApplication\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:25:24.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
