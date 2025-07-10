@@ -121,8 +121,12 @@ namespace WebformApplication
             //ClientScript.RegisterStartupScript(this.GetType(), "alert", "alert('Data inserted successfully!');", true);
 
             TextEnterID.Text = "";
-
-            GetUserDetails();
+            txtName.Text = "";
+            txtAddress.Text = "";
+            txtEmail.Text = "";
+            ddlCountryName.SelectedIndex = 0;
+            rblGender.SelectedIndex = -1; // radio button clear fild data after insert
+          
 
 
         }
